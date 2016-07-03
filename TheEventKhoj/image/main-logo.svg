@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="350"
+   height="350"
+   id="svg2990">
+  
+  <g
+     transform="translate(0,-702.36218)"
+     id="layer1">
+    <g
+       transform="matrix(0.87015345,0,0,0.87015345,-47.759283,184.40488)"
+       id="g3848">
+      <path
+         d="m 360.51156,863.18396 c -8.94838,13.07884 -19.8312,24.73745 -32.25,34.53125 l 16.8125,16.65625 33.21875,-33.5625 -17.78125,-17.625 z"
+         id="rect4448"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 360.00001,254.85715 a 117.14286,117.14286 0 1 1 -234.28572,0 117.14286,117.14286 0 1 1 234.28572,0 z"
+         transform="matrix(1.3292683,0,0,1.3292683,-99.490794,430.03193)"
+         id="path4434"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <text
+         x="136.30203"
+         y="830.38818"
+         id="text4436"
+         xml:space="preserve"
+         style="font-size:326.73944092px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f4511e;fill-opacity:1;stroke:none;font-family:Bodoni MT Poster Compressed;-inkscape-font-specification:Bodoni MT Poster Compressed Light"><tspan
+           x="136.30203"
+           y="830.38818"
+           id="tspan4438"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f4511e;fill-opacity:1;font-family:Harrington;-inkscape-font-specification:Harrington">e</tspan></text>
+      <rect
+         width="47.233734"
+         height="84.165779"
+         x="-406.7229"
+         y="897.31165"
+         transform="matrix(0.70368624,-0.71051085,0.71051085,0.70368624,0,0)"
+         id="rect4440"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1814.1732"
+   height="1814.1732"
+   id="svg3120"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="C:\Users\sume\Desktop\education_border.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
+   sodipodi:docname="festival.svg">
+ 
+  
+
+
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,761.811)">
+    <g
+       id="g4442"
+       transform="matrix(1.1866099,0,0,1.1865718,-169.27134,-26.732321)">
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f4511e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         d="m 655.54388,-241.25959 c 0,0 53.84836,-298.00529 266.46008,-214.03129 212.61164,83.97399 -94.7741,627.10186 -94.7741,627.10186 z"
+         id="path3321"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscc" />
+      <path
+         sodipodi:nodetypes="cscc"
+         inkscape:connector-curvature="0"
+         id="path3323"
+         d="m 658.3811,-242.33429 c 0,0 -253.22567,-181.68962 -347.68789,18.60001 -94.46221,200.289629 519.37387,394.47056 519.37387,394.47056 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f4511e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <g
+         id="g3325"
+         transform="matrix(6.3269053,9.843267,-10.31091,6.0399536,3773.5601,-5397.1915)">
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f4511e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.76853561;marker:none;enable-background:accumulate"
+           d="m 295.18065,419.36227 c 0,0 9.85,-16.11818 19.7,-6.56666 9.85,9.55151 -19.7,34.32575 -19.7,34.32575 z"
+           id="path3331"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cscc" />
+        <path
+           sodipodi:nodetypes="cscc"
+           inkscape:connector-curvature="0"
+           id="path3333"
+           d="m 295.36267,419.36227 c 0,0 -9.85,-16.11818 -19.7,-6.56666 -9.85,9.55151 19.7,34.32575 19.7,34.32575 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f4511e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      </g>
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#f4511e;stroke-width:31.92086601;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         d="M 817.61083,153.43606 C 837.75594,554.91027 498.55093,365.2799 450.65631,673.55008"
+         id="path3335"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#f4511e;stroke-width:31.92086601;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         d="m 1049.9999,203.36818 c 3.019,255.7151 171.657,445.44424 -160.59212,541.42857"
+         id="path3337"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+</svg>

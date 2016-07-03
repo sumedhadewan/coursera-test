@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1814.1732"
+   height="1814.1732"
+   id="svg3120"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="C:\Users\sume\Desktop\education_border.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
+   sodipodi:docname="parties.svg">
+ 
+  
+    
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,761.811)">
+    <g
+       id="g4599"
+       transform="matrix(1.1950004,0,0,1.0248794,-176.88217,-5.6591029)">
+      <path
+         style="fill:#f4511e;fill-opacity:0.98941806;stroke:none"
+         d="m 669.87778,-453.25049 0,256.99274 c 0,105.937359 105.64587,191.11058 237.04671,191.11058 131.40081,0 237.37081,-85.173221 237.37081,-191.11058 l 0,-256.99274 -474.41752,0 z"
+         id="path3381"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="fill:#f4511e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3383"
+         width="40.88208"
+         height="594.22601"
+         x="886.64551"
+         y="42.953697"
+         rx="0.92819583"
+         ry="0" />
+      <path
+         style="fill:#f4511e;fill-opacity:0.98941806;stroke:none"
+         d="m 908.22159,686.09273 c -76.88222,0.38818 -143.76519,24.9012 -181.27103,61.69917 l 360.27204,0 c -37.932,-37.37271 -100.93254,-62.09313 -179.00101,-61.69917 z"
+         id="path3385"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

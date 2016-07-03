@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1814.1732"
+   height="1814.1732"
+   id="svg3120"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="C:\Users\sume\Desktop\education_border.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
+   sodipodi:docname="business.svg">
+  
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,761.811)">
+    <g
+       transform="matrix(16.181841,0,0,18.21026,3994.1111,-4368.5271)"
+       id="g3267">
+      <g
+         id="g4163"
+         transform="matrix(1,0,0,0.96910141,-1.1006584,10.32046)">
+        <path
+           inkscape:connector-curvature="0"
+           id="rect3271"
+           d="m -225.95892,208.00277 c -1.5941,0 -2.87742,0.9714 -2.87742,2.17833 l 0,2.61284 c 0,0.022 6.5e-4,0.0445 7.8e-4,0.0664 l 46.03577,0 c 7.9e-4,-0.0217 7.9e-4,-0.0444 7.9e-4,-0.0664 l 0,-2.61284 c 0,-1.20693 -1.28337,-2.17833 -2.87744,-2.17833 l -40.2839,0 z"
+           style="fill:#f4511e;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           id="rect3269"
+           transform="matrix(0.05997826,0,0,0.05930589,-245.17639,192.9288)"
+           d="m 261.21875,410.625 c -5.76061,0 -10.40625,4.64564 -10.40625,10.40625 l 0,1069.31255 c 0,5.7606 4.64564,10.375 10.40625,10.375 l 205.53125,0 0,-452.0626 877.1562,0 0,452.0626 245.75,0 c 5.7607,0 10.4063,-4.6144 10.4063,-10.375 l 0,-1069.31255 c 0,-5.76061 -4.6456,-10.40625 -10.4063,-10.40625 l -1328.43745,0 z"
+           style="fill:#f4511e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <rect
+           rx="0.016854392"
+           ry="0.015454524"
+           y="253.14153"
+           x="-215.37263"
+           height="0.50507629"
+           width="2.0203052"
+           id="rect3273"
+           style="fill:#f4511e;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <rect
+           style="fill:#f4511e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect3277"
+           width="45.583477"
+           height="23.241312"
+           x="-213.9877"
+           y="259.00583"
+           ry="0.38427401"
+           rx="0" />
+      </g>
+    </g>
+  </g>
+</svg>

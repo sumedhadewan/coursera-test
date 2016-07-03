@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1814.1732"
+   height="1814.1732"
+   id="svg3120"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="C:\Users\sume\Desktop\education_border.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
+   sodipodi:docname="music.svg">
+  
+
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,761.811)">
+    <g
+       id="g3077"
+       transform="matrix(1.0263513,0,0,1.0263513,4437.569,13.923883)">
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#f4511e;stroke-width:122.20967865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         d="m -2940.1318,188.66881 12.0835,-597.91681 -821.6658,303.55952 12.0834,596.46778 0,0"
+         id="path3363"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#f4511e;stroke-width:8.69633579;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3365"
+         sodipodi:cx="-120"
+         sodipodi:cy="415.93362"
+         sodipodi:rx="11.428572"
+         sodipodi:ry="13.571428"
+         d="m -108.57143,415.93362 a 11.428572,13.571428 0 0 1 -11.38784,13.57135 11.428572,13.571428 0 0 1 -11.46901,-13.47462 11.428572,13.571428 0 0 1 11.3061,-13.66738 11.428572,13.571428 0 0 1 11.54959,13.37721"
+         sodipodi:start="0"
+         sodipodi:end="6.2689307"
+         transform="matrix(13.512502,0,0,9.8599266,-2218.4997,-3524.1735)"
+         sodipodi:open="true" />
+      <path
+         sodipodi:open="true"
+         transform="matrix(13.004026,0,0,9.4888971,-1479.7211,-3690.0962)"
+         sodipodi:end="6.2689307"
+         sodipodi:start="0"
+         d="m -108.57143,415.93362 a 11.428572,13.571428 0 0 1 -11.38784,13.57135 11.428572,13.571428 0 0 1 -11.46901,-13.47462 11.428572,13.571428 0 0 1 11.3061,-13.66738 11.428572,13.571428 0 0 1 11.54959,13.37721"
+         sodipodi:ry="13.571428"
+         sodipodi:rx="11.428572"
+         sodipodi:cy="415.93362"
+         sodipodi:cx="-120"
+         id="path3367"
+         style="fill:none;stroke:#f4511e;stroke-width:10.01031494;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+</svg>
