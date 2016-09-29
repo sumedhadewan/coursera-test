@@ -73,16 +73,13 @@ img{
 
 a{
   text-decoration: none;
-  color: #666666;
+  color: #fff;
   letter-spacing:1px;
-
 }
 
 a:hover, a:active , a:focus{
   text-decoration: none;
   outline:none;
-  color: #f4511e;
-  
 }
 
 .btn:focus,.btn:active:focus{
@@ -93,49 +90,13 @@ a:hover, a:active , a:focus{
            BASE
 *****************************/
 body{
-  color: #666666;
+  color: #000;
   background-color: #fff;
   font-family:"Open Sans",sans-serif;
   font-size: 12px;
   letter-spacing: 1px;
 }
 
-nav{
-  text-align: center;
-}
-
-.container{
-  margin-top: 25px;
-  margin-bottom: 25px;
-  box-sizing:border-box;
-}
-
-.jumbotron{/*
-  margin-top: 55px;*/
-}
-
-footer{
-  margin: 15px 0;
-}
-
-/**************************************
-      BASE [MEDIA QUERIES]
-**************************************/
-@media all and (min-width: 600px)
-{
-  .container{
-    margin-top: 35px;
-    margin-bottom: 35px;
-  }
-}
-
-@media all and (min-width: 768px)
-{
-  .container{
-    margin-top: 40px;
-    margin-bottom: 40px;
-  }
-}
 
 /**********************************
               FONTS
@@ -154,18 +115,122 @@ h1.headline{
   color:#3e4952;
 }
 
-body{
-  letter-spacing: 0;
-  font-size: 16px;
+
+/**************
+BACKRGOUND
+***************/
+
+.bg-1{
+  background-color: transparent;
+  background:linear-gradient(155Deg, #f4511e 50%,#FFF 50%);
+  /*110deg
+  background:linear-gradient(155,170deg, #f4511e 50%, #f56234 50%);*/
+  background-attachment: fixed;
+  background-size: cover;
+  transition: 0.8s background;
 }
 
+@media screen and (min-width: 768px){
+  .bg-1{
+    
+  }
+}
 
-/*****************************
-      MAIN TOP NAVIGATION
-****************************/
+/*
+.container{
+  background:linear-gradient(to right bottom, #f4511e 50%,transparent 50%);
+}*/
 
+/**HEADER***/
+#logo-box{
+  text-align: center;
+  margin-top:15px; 
+}
+img#main-logo{
+  height: 50px;
+  display:block;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
+span#site-name{
+  font-size:16px;
+  color:#000 ;
+  letter-spacing: 10px;
+}
+
+/**MAIN**/
+.main{
+  margin-top: 100px;
+  padding-bottom:100px;
+}
+
+/*CREAT EVENT BUTTON*/
+#creat-an-event{
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+a#creatEvent,
+a#creatEvent:visited{
+  color:#fff !important;
+  background-color:rgba(245,98,52,0.99) !important;
+  padding: 10px;
+  font-weight:600;
+  letter-spacing:4px;
+  box-shadow: 0;
+  box-shadow: 0 0 0 1px #fff;
+  border:0;
+  outline:0;
+  transition:all 0.3s linear;
+
+}
+
+a#creatEvent:hover,
+a#creatEvent:active{
+    color: #f4511e !important;
+    background-color: #fff !important;
+    box-shadow: 0 0 0 1px #f4511e;
+}
+
+/*APP-DOWNLOAD SECTION*/
+
+#apps-download-section{
+  margin:80px 0;
+}
+
+img.download-icon{
+  width:120px;
+  margin-top: 25px;
+  margin-bottom: -15px;
+}
+
+/********************************************
+      SOCIAL MEDIA
+********************************************/
+
+.bg-2{
+padding-bottom:50px;
+}
+ul.social-icon li{
+  margin:0;
+  display: inline-block;
+}
+
+ul.social-icon img{
+  width: 32px;
+  height: 32px;
+  display: block;
+}
+
+/***************************************
+FOOTER
+************************************/
+
+footer{
+  margin:10px 0;
+}
+/*
 .navbar{
-  background-color:#f4511e/*rgba(245,98,52,0.99)*/;
+  background-color:#f4511e;
   border:0;
   border-radius:0;
   display: block;
@@ -221,9 +286,11 @@ img#main-logo{
 /***************************************************
                 MEDIA QUERIES
 ***************************************************/
+/*
 @media screen and (min-width:414px){
 
   /********MAIN TOP NAVIGATION********/
+  /*
   .navbar-header{
     float:left;
   }
@@ -240,6 +307,7 @@ img#main-logo{
 @media screen and (min-width:600px){
 
   /**********FONTS***********/
+  /*
   h1.headline{
     font-size: 20px;
     letter-spacing:4px;
@@ -252,21 +320,26 @@ img#main-logo{
   }
 
   /********MAIN TOP NAVIGATION*********/
-  .navbar-default{
-    position: fixed;
+  /*
+  .navbar-default{/*
+    position: fixed;*/
+    /*
     display: block;
-    margin: 0 auto;
+    margin: -25px auto 0;
     width: 100%;
     top:0;
     left:0;
     right: 0;
     z-index: 1000;
     border:0;
-    /*background-color:rgba(245,98,52,0.94);*/
+    background-color:#f4511e;
   }
   .navbar-nav li a#creatEvent,
   .navbar-nav li a#creatEvent:link{
     padding: 10px;
+  }
+  .container#top-nav{
+    margin:55px auto 15px;
   }
 
 }
@@ -274,6 +347,7 @@ img#main-logo{
 @media screen and (min-width: 768px){
 
   /**********FONTS***************/
+  /*
   h1.headline{
     font-size: 24px;
     margin-top: 50px;
@@ -281,9 +355,7 @@ img#main-logo{
   }
 
   /********MAIN TOP NAVIGATION*********/
-  .container#top-nav{
-    margin:15px auto;
-  }
+  /*
   .navbar-header span.site-name{
     font-size: 24px;
     letter-spacing: 6px;
@@ -298,16 +370,18 @@ img#main-logo{
 @media screen and (min-width:1260px){
 
   /********MAIN TOP NAVIGATION*********/
+  /*
  .navbar-default{
-    top:20px;
-  /*  max-width:1200px;*/
-    transition: 0.4s linear;
-  /*  background-color: transparent;*/
+    top:20px;/*
+    max-width:1200px;*/
+    /*
+    transition: 0.8s linear;
   }
  header.smaller .navbar-default{
-    top:0;
- /*   max-width: 100%;*/
-/*    background-color:rgba(245,98,52,0.95);*/
+    top:0;/*
+    max-width: 100%;*/
+    /*
+    background-color:#f4511e;
  }
 }
 

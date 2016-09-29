@@ -10,56 +10,18 @@
 	<meta name="description" content="">
 
 	<!--style sheet -->
-	<link rel="stylesheet" href="bootstrap.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="base_4.css">
 	<link rel="stylesheet" type="text/css" href="style_4.css">
-
-	<!--js -->
-	<script src="js/classie.js"></script>
-	<script>
-	    function init() {
-	        window.addEventListener('scroll', function(e){
-	            var distanceY = window.pageYOffset || document.documentElement.scrollTop,
-	                shrinkOn = 300,
-	                header = document.querySelector("header");
-	            if (distanceY > shrinkOn) {
-	                classie.add(header,"smaller");
-	            }else{
-	                if (classie.has(header,"smaller")) {
-	                    classie.remove(header,"smaller");
-	                }
-	            }
-	        });
-	    }
-	    window.onload = init();
-	</script>
-	
 	<!-- -->
-	<style type="text/css">
-	body{
-		    overflow: scroll !important;
-		}
-    </style>
 </head>
 
 
 <body>
 
-<!-- Header Main Nav-->
-<header>
-	<nav class="navbar navbar-default">
-		<div class="container" id="top-nav">
-			<div class="navbar-header">
-				<a class="navbar-brand" href="#"><img src="image/logo.png" id="main-logo"><span class="site-name">Event Khoj</span></a>
-			</div>
-			<ul class="nav navbar-nav navbar-right">
-				<li><a href="#" id="creatEvent" data-toggle="modal" data-target="#eventModal">SIGN IN</a></li>
-			</ul>
-		</div>
-	</nav>
-</header>
-
 <!--Modal- Creat Event-->
+<!--
 <div class="modal fade" id="eventModal" role="dialog">
 	<div class="modal-dialog"> 
 		<div class="modal-content">
@@ -83,32 +45,97 @@
 	</div>
 </div> <!--Modal -->
 
+<!--JUMBOTRON-->
 
-<div id="main">
+<div class="bg-1">
+	<div class="container">
+
+		<!--HEADER LOGO-->
+		<div class="header">
+			<div id="logo-box">
+				<img src="image/logo.png" id="main-logo"><span id="site-name" class="text-center">Event Khoj</span>
+			</div>
+		</div>
+
+		<!--MAIN-->
+		<div class="main text-center">
+	
+			<!--CREAT EVENT BUTTON-->
+			<h1>
+			Quickly start promoting and manageing events.
+			</h1>
+			<div id="creat-an-event">
+				<a href="#" id="creatEvent" data-toggle="modal" data-target="#eventModal">CREATE AN EVENT
+				</a>
+			</div>
+			<h1>
+				Get in-the moment updates of events on your phone.
+			</h1>
+			<!--APPS DOWNLOAD SECTION -->
+			<div id="apps-download-section">
+				<h2>Download us <span class="glyphicon glyphicon-download" style="font-size:18px"></span></h2>
+				<div id="apps-download">
+					<ul id="apps-list">
+						<li><a href="#"><img src="image/app-store.svg" alt="apple-store" class="download-icon"></a></li>
+						<li><a href="#"><img src="image/google-play.svg" alt="andriod-store" class="download-icon"></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- SOCIAL MEDIA-->
+	<div class="container bg-2">
+		
+		<nav>
+			<ul class="social-icon text-center">
+				<li>
+					<a href=""><img src="image/social_media/facebook.png"></a>
+				</li>
+				<li>
+					<a href=""><img src="image/social_media/twitter.png"></a>
+				</li>
+				<li>
+					<a href=""><img src="image/social_media/google_plus.png"></a>
+				</li>
+				<li>
+					<a href=""><img src="image/social_media/instagram.png"></a>
+				</li>
+				<li>
+					<a href=""><img src="image/social_media/apple.png"></a>
+				</li>
+				<li>
+					<a href=""><img src="image/social_media/google_play.png"></a>
+				</li>
+			</ul>
+		</nav>
+	</div> <!-- Social Media-->
+
+
+
+</div>
+
+
+<!-- Header Main Nav-->
+<!--
+<header>
+	<nav class="navbar navbar-default">
+		<div class="container" id="top-nav">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="#"><img src="image/logo.png" id="main-logo"><span class="site-name">Event Khoj</span></a>
+			</div>
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="#" id="creatEvent" data-toggle="modal" data-target="#eventModal">CREATE AN EVENT</a></li>
+			</ul>
+		</div>
+	</nav>
+</header>
+
+
 
 	<!-- HERO VIDEO-->
-	<div id="bg-1">
-		<div class="container" id="bg-2">
-			<h1> Welcome to our site</h1> 
-			<p>
-				Sign-up & start promoting and manageing events.
-			</p>
-			<br>
-			<h2>DOWNLOAD </h2>
-			<ul id="apps-list">
-				<li><a href="">APP STORE</a></li>
-				<li><a href=""> GOOGLE PLAY STORE </a></li>
-			</ul>
-		</div>
-	</div>
 	<!--
 	<div id="bg-1">
-		<video id="hero_video" autoplay muted loop>
-			<source src="media/confetti.mp4" type="video/mp4">
-		
-			<source src="media/demo.ogv" type="video/ogg">
-			<source src="media/demo/webm" type="video/webm"> 
-		</video>
 		<div class="container" id="bg-2">
 			<h1> Welcome to our site</h1> 
 			<p>
@@ -122,36 +149,11 @@
 			</ul>
 		</div>
 	</div>
-	-->
-	<!--Main  Event Carousel-->
-	<div style="min-height: 60px;">
-   		<div id="carousel_container" class="outer_container">
-            <!-- Slides Container -->
-            <div u="slides" class="inner_container">
-                <div>
-                    <img u="image" src2="img/1920/red.jpg" />
-                </div>
-                <div>
-                    <img u="image" src2="img/1920/purple.jpg" />
-                </div>
-                <div>
-                    <img u="image" src2="img/1920/blue.jpg" />
-                </div>
-            </div> 
-            <!-- bullet navigator container -->
-            <div u="navigator" class="jssorb21" style="bottom: 26px; right: 6px;">
-                <div u="prototype"></div><!-- bullet navigator item prototype -->
-            </div>
-            <!-- Arrow Left -->
-            <span u="arrowleft" class="jssora21l" style="top: 123px; left: 8px;">
-            </span>
-            <!-- Arrow Right -->
-            <span u="arrowright" class="jssora21r" style="top: 123px; right: 8px;">
-            </span>
-    	</div>
-    </div>
+
 
 	<!--SIGN UP TO CREAT EVENT -->
+
+	<!--
 	<div class="container bg-3">
 		<h1 class="text-center headline">CREAT AN EVENT</h1>
 		
@@ -182,8 +184,10 @@
 			</button>
 		</form>
 	</div>
-	
+	-->
+
 	<!-- Contact Us-->
+	<!--
 	<div class="container">
 		<h1 class="text-center headline">Contact us</h1>
 		<div class="row">
@@ -229,6 +233,7 @@
 	</div><!-- Contact us -->
 
 	<!-- Social Media-->
+	<!--
 	<div class="container">
 		<h1 class="text-center headline">Share 
 		<svg class="heart" viewBox="0 0 32 29.6">
@@ -259,10 +264,10 @@
 		</nav>
 	</div> <!-- Social Media-->
 
-</div> <!--#main -->
 
 
 <!-- Footer-->
+<!--
 <footer class="text-center">
 	<p>&copy; Event Khoj</p>
 	<em>Terms and condition</em>
@@ -274,6 +279,7 @@
 <script src="js/jssor.slider.mini.js"></script> <!-- jssor slider scripts-->
 
 <!-- Main Event carousel-->
+<!--
 <script>
 	jQuery(document).ready(function ($) {
 
@@ -340,6 +346,7 @@
     });
 
 </script>
+-->
 
 </body>
 </html>
